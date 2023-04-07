@@ -62,7 +62,7 @@ conda activate Zebrafish-brain-visualization
 5. Install Napari and Napari-animation plugin 
 ```
 conda install -c conda-forge napari
-conda install napari-animation
+conda install -c conda-forge napari-animation
 ```
 
 6. Install Pytorch with **the version compatible with your OS and platform** from https://pytorch.org/get-started/locally/
