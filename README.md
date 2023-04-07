@@ -18,10 +18,9 @@ This repository is the source code we used for the visualization using napari in
 ### Hardware Requirements
 
 ```markdown
-OS : Ubuntu 18.0.4
 CPU : Intel i7-9700K
 GPU : GeForce RTX 2080 Ti 11GB
-RAM : 128GM
+RAM : 128GB
 ```
 
 ### Software Requirements
@@ -96,7 +95,7 @@ Please contact to following authors to get in touch!
 ## Citation
 Cho, E.-S. et al. Imaging whole-brain of larval zebrafish in vivo using three-dimensional fluorescence microscopy. in revision (2023).
 ```
-@article {Cho2023JoVE,
+@article {Cho2023,
 	author = {Cho, Eun-Seo and Han, Seungjae and Kim, Gyuri and Eom, Minho and Lee, Kang-Han and Kim, Cheol-Hee and Yoon, Young-Gyu},
 	title = {Imaging whole-brain of larval zebrafish in vivo using three-dimensional fluorescence microscopy},
 	elocation-id = {TBD},
