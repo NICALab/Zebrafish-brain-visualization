@@ -10,8 +10,7 @@
 As a vertebrate model animal, larval zebrafish are widely used in neuroscience and provide a unique opportunity to monitor the whole-brain activity at cellular resolution. Here we provide an optimized protocol for performing whole-brain imaging of larval zebrafish using three-dimensional fluorescence microscopy that includes sample preparation and immobilization, sample embedding, image acquisition, and visualization after imaging. Our protocol enables in vivo imaging of the structure and neuronal activity of a larval zebrafish brain at cellular resolution over an hour using confocal microscopy and custom-designed fluorescence microscopy. We discuss the critical steps in the protocol, including sample mounting and positioning, preventing bubble formation and dust in the agarose gel, and avoiding motion in images caused by incomplete solidification of the agarose gel and paralyzation of the fish. The protocol has been validated and confirmed in multiple settings. This protocol can be easily adapted for imaging other organs of a larval zebrafish. 
 
 
-
-This repository is the source code we used for the visualization using napari in Protocol Step 5-7.
+This repository contains the source code we used for creating visualizations with Napari in Protocol Steps 5-7.
 
 ## System Requirements
 
@@ -36,7 +35,7 @@ We tested on the following systems:
 
 ## Installation
 
-It could depending on your network speed, but the installation generally took less than 20 minutes.
+The installation time may depend on your network speed, but it generally takes less than 20 minutes.
 
 1. Clone the repository
 ```
@@ -87,8 +86,8 @@ Run `Visualizing_structure.ipynb` or `Visualizing_neuronal_activity.ipynb`.
 Demo data can be downloaded from [Google Drive Link](https://drive.google.com/drive/folders/1FsS3j9OhjLcKGmC3T7B8LkRuj2mXH8DW?usp=share_link )
 
 ## Contributors
-We are happy to help with any questions or requests.
-Please contact to following authors to get in touch!
+We are happy to help with any questions or requests. 
+Please contact the following authors to get in touch!
 * Seungjae Han (jay0118@kaist.ac.kr)
 * Eun-Seo Cho (eunseo.cho@kaist.ac.kr)
 
