@@ -12,9 +12,6 @@ As a vertebrate model animal, larval zebrafish are widely used in neuroscience a
 
 This repository contains the source code we used for creating visualizations with Napari in Protocol Steps 5-7.
 
-## System Requirements
-
-
 
 ## Installation
 
