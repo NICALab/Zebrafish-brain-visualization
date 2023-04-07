@@ -28,7 +28,7 @@ clc;
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% specify TIFF file to load
-inputFile = './Data/rawVideo_210418_Casper_GCaMP7a_4dpf_sample1_frame029.tif';
+inputFile = './Data/Zebrafish_BEAR.tif';
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% load data
 Finfo = imfinfo(inputFile);
@@ -44,8 +44,7 @@ for ti=1:tlength
 end
 
 %% crop
-% source_video_crop = source_video( :,(129:384),:);
-source_video_crop = source_video( :,:,:);
+source_video_crop = source_video(:,:,:);
 imgResolution = [size(source_video_crop,1) size(source_video_crop,2)];
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
