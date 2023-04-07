@@ -77,11 +77,11 @@ Demo data can be downloaded from [Google Drive Link](https://drive.google.com/dr
 
 **2. (Optional) Decompose background and activity from data using BEAR**
 
-1. Run BEAR_v2_JoVE.m in the “BEAR_MATLAB_v2” folder
+1) Run BEAR_v2_JoVE.m in the “BEAR_MATLAB_v2” folder
 
-2. Load the background and neuronal activity images and open the napari window. 
+2) Load the background and neuronal activity images and open the napari window. 
 
-3. Connect napari-animation plugin.
+3) Connect napari-animation plugin.
 
 **3. Run demo notebook**
 ```
