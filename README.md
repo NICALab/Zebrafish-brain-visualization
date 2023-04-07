@@ -14,24 +14,7 @@ This repository contains the source code we used for creating visualizations wit
 
 ## System Requirements
 
-### Hardware Requirements
 
-```markdown
-CPU : Intel i7-9700K
-GPU : GeForce RTX 2080 Ti 11GB
-RAM : 128GB
-```
-
-### Software Requirements
-
-We tested on the following systems:
-
-```markdown
-- Ubuntu 18.04
-- Python 3.9
-- Pytorch 1.13.0
-- CUDA 11.7
-```
 
 ## Installation
 
@@ -57,16 +40,6 @@ conda env create -f env.yml
 conda activate Zebrafish-brain-visualization
 ```
 
-5. Install Napari and Napari-animation plugin 
-```
-conda install -c conda-forge napari
-conda install -c conda-forge napari-animation
-```
-
-6. Install Pytorch with **the version compatible with your OS and platform** from https://pytorch.org/get-started/locally/
-```
-conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia
-```
 
 ## Getting Started
 **1. Download demo data**
