@@ -76,17 +76,12 @@ conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvi
 Demo data can be downloaded from [Google Drive Link](https://drive.google.com/drive/folders/1FsS3j9OhjLcKGmC3T7B8LkRuj2mXH8DW?usp=share_link)
 
 **2. (Optional) Decompose background and activity from data using BEAR**
-```
-1) Run BEAR_v2_JoVE.m in the “BEAR_MATLAB_v2” folder.
-```
-```
-2) Save the images of the background(L_img) and neuronal activity(S_img) as TIF files 
-```
+
+Run BEAR_v2_JoVE.m in the “BEAR_MATLAB_v2” folder.
 
 **3. Run demo notebook**
-```
-TODO
-```
+
+Run `Visualizing_structure.ipynb` or `Visualizing_neuronal_activity.ipynb`.
 
 
 ## Data availability
@@ -100,3 +95,16 @@ Please contact to following authors to get in touch!
 
 ## Citation
 Cho, E.-S. et al. Imaging whole-brain of larval zebrafish in vivo using three-dimensional fluorescence microscopy. in revision (2023).
+```
+@article {Cho2023JoVE,
+	author = {Cho, Eun-Seo and Han, Seungjae and Kim, Gyuri and Eom, Minho and Lee, Kang-Han and Kim, Cheol-Hee and Yoon, Young-Gyu},
+	title = {Imaging whole-brain of larval zebrafish in vivo using three-dimensional fluorescence microscopy},
+	elocation-id = {TBD},
+	year = {2023},
+	doi = {TBD},
+	publisher = {TBD},
+	URL = {TBD},
+	eprint = {TBD},
+	journal = {TBD}
+}
+```
