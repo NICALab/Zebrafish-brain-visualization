@@ -17,16 +17,23 @@ This repository is the source code we used for the visualization using napari in
 
 ### Hardware Requirements
 
-TODO
+```markdown
+OS : Ubuntu 18.0.4
+CPU : Intel i7-9700K
+GPU : GeForce RTX 2080 Ti 11GB
+RAM : 128GM
+```
 
 ### Software Requirements
 
 We tested on the following systems:
 
+```markdown
 - Ubuntu 18.04
 - Python 3.9
 - Pytorch 1.13.0
 - CUDA 11.7
+```
 
 ## Installation
 
