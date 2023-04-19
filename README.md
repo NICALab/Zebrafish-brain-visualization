@@ -1,4 +1,4 @@
-<h3 align="center">Imaging whole-brain of larval zebrafish in vivo using three-dimensional fluorescence microscopy</h3>
+<h3 align="center">In vivo whole-brain imaging of zebrafish larvae using three-dimensional fluorescence microscopy</h3>
 
 <p align="center">
 <img src="JoVE_Figure1.jpg" width="80%"/>
@@ -66,11 +66,11 @@ Cho, E.-S. et al. Imaging whole-brain of larval zebrafish in vivo using three-di
 ```
 @article {Cho2023,
 	author = {Cho, Eun-Seo and Han, Seungjae and Kim, Gyuri and Eom, Minho and Lee, Kang-Han and Kim, Cheol-Hee and Yoon, Young-Gyu},
-	title = {Imaging whole-brain of larval zebrafish in vivo using three-dimensional fluorescence microscopy},
+	title = {In vivo whole-brain imaging of zebrafish larvae using three-dimensional fluorescence microscopy},
 	elocation-id = {TBD},
 	year = {2023},
 	doi = {TBD},
-	publisher = {TBD},
+	publisher = {Journal of Visualized Experiments (JoVE)},
 	URL = {TBD},
 	eprint = {TBD},
 	journal = {TBD}
